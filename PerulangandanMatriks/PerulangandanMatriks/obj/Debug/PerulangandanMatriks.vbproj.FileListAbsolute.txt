@@ -1,0 +1,24 @@
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\bin\Debug\PerulangandanMatriks.exe.config
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\bin\Debug\PerulangandanMatriks.exe
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\bin\Debug\PerulangandanMatriks.pdb
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\bin\Debug\PerulangandanMatriks.xml
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.Indeks.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.Resources.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.vbproj.GenerateResource.Cache
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.exe
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.xml
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.pdb
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.Matrix.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.StarsProblem.resources
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\bin\Debug\PerulangandanMatriks.exe.config
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.exe
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.xml
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.pdb
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\bin\Debug\PerulangandanMatriks.exe
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\bin\Debug\PerulangandanMatriks.pdb
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\bin\Debug\PerulangandanMatriks.xml
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.Indeks.resources
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.Matrix.resources
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.Resources.resources
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.vbproj.GenerateResource.Cache
+D:\Master\Master Program\Project Visual Basic\PerulangandanMatriks\PerulangandanMatriks\obj\Debug\PerulangandanMatriks.StarProblems.resources
